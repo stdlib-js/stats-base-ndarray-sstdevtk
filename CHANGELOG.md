@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-17)
+## Unreleased (2026-05-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`24b7879`](https://github.com/stdlib-js/stdlib/commit/24b78796fa55472fd21fc89a03c4053b88f80440) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`5eb7aea`](https://github.com/stdlib-js/stdlib/commit/5eb7aea36a642f90891018aaacd7d3d943fbcf4c) - **docs:** add missing notes _(by Athan Reines)_
 
 </details>
